@@ -21,6 +21,4 @@ This repository provides an *Exploratory Data Analysis (EDA)* of the FIFA datase
 ### 3. Statistical Insights  
 - Extracting valuable conclusions solely through code and statistical methods, tailored for scenarios where visualizations are not feasible.
 
-## Recommendations  
 
-- Actionab
